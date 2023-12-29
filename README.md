@@ -1,5 +1,6 @@
 # Global Warming Dashboard - Power BI
 Explore climate trends with our Global Warming Dashboard on Power BI. Gain insights into global temperature patterns, carbon emissions, and future climate projections.
+![image](https://github.com/yaznhijazii/GlobalWarming/assets/136443990/500d8490-e335-4b2d-8cec-e87b5d59a80d)
 
 ## Getting Started
 
